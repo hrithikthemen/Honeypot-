@@ -38,6 +38,22 @@ This allows security researchers and students to observe attack patterns safely 
 
 ---
 
+## 📦 Dependencies
+
+This project uses the following Python libraries:
+
+### Built-in Libraries (No Installation Required)
+
+* `socket` – For network communication
+* `os` – For directory management
+* `logging` – For activity logging
+* `smtplib` – For sending email alerts
+* `email.message` – For formatting email content
+
+These libraries come pre-installed with Python#, so no additional installation is required.
+
+---
+
 ## Project Structure
 
 ```
