@@ -5,7 +5,7 @@ import smtplib
 from email.message import EmailMessage
 
 # === Email Setup ===
-EMAIL_ADDRESS = 
+EMAIL_ADDRESS = ""
 EMAIL_PASSWORD = "asvi mcyz xhdv uuxq"  # Use Gmail App Password if 2FA is on
 
 def send_email_alert(subject, body):
