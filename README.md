@@ -38,7 +38,7 @@ This allows security researchers and students to observe attack patterns safely 
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 This project uses the following Python libraries:
 
